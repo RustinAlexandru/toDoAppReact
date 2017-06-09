@@ -1,0 +1,38 @@
+{
+  "name": "exercise1-todo",
+  "version": "1.0.0",
+  "description": "This exercise will teach you how to create a simple Todo app using React, like [this one.](http://reactforbeginners.github.io/exercise1-todo/) You'll learn about components, state, props and also how to change the state based on user input.",
+  "main": "AddListButton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReactForBeginners/exercise1-todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReactForBeginners/exercise1-todo/issues"
+  },
+  "homepage": "https://github.com/ReactForBeginners/exercise1-todo#readme",
+  "dependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "immutable": "^3.8.1",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^1.2.1",
+    "typescript": "^2.0.10",
+    "typings": "^2.0.0",
+    "webpack": "^1.13.3"
+  },
+  "devDependencies": {
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0"
+  }
+}

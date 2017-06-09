@@ -1,0 +1,24 @@
+{
+            "compilerOptions": {
+              "jsx": "preserve",
+              "module": "es6",
+              "sourceMap": true,
+              "noImplicitAny": false,
+              "outDir": "./build/",
+              "preserveConstEnums": true,
+              "removeComments": true,
+              "target": "es6"
+            },
+              "exclude": [
+                "node_modules",
+                "typings/browser.d.ts",
+                "typings/browser"
+              ]
+
+//            "exclude": [
+//              "node_modules",
+//              "**/*.spec.ts",
+//              "*.json"
+//            ]
+
+}
